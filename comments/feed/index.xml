@@ -10,10 +10,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho wordpress_demo	</title>
+	Bình luận cho Gamenhailienquan	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://datdeptraii2401.github.io/mywordpresss</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Nơi cung cấp cho bán những linh kiện vip pro</description>
 	<lastBuildDate>Sat, 25 Sep 2021 03:27:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
