@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Màn hình Samsung LC27F390FHEXXV (27 inch/FHD/LED/PLS/250cd/m²/HDMI+VGA/60Hz/5ms/Màn hình cong)	</title>
+	<atom:link href="http://localhost/myproject/wordpress/san-pham/man-hinh-samsung-lc27f390fhexxv-27-inch-fhd-led-pls-250cd-m%C2%B2-hdmivga-60hz-5ms-man-hinh-cong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpresss/san-pham/man-hinh-samsung-lc27f390fhexxv-27-inch-fhd-led-pls-250cd-m%c2%b2-hdmivga-60hz-5ms-man-hinh-cong/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 06:36:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
