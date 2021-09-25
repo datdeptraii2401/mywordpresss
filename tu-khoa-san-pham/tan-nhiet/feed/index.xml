@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tản nhiệt &#8211; wordpress_demo</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/tan-nhiet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpresss</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 07:06:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Tản nhiệt Supermicro SNK-P0067PD</title>
+		<link>https://datdeptraii2401.github.io/mywordpresss/san-pham/tan-nhiet-supermicro-snk-p0067pd/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpresss/san-pham/tan-nhiet-supermicro-snk-p0067pd/#respond</comments>
+		
+		<dc:creator><![CDATA[123456777]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 07:06:54 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpresss/?post_type=product&#038;p=72</guid>
+
+					<description><![CDATA[Đánh giá Tản nhiệt Supermicro SNK-P0067PD &#8211; Tản Nhiệt Cho Máy Chủ Tản nhiệt Supermicro SNK-P0067PD Tản nhiệt Supermicro SNK-P0067PD Là tản nhiệt bị động dùng cho bo mạch chủ X11DPL Hỗ trợ CPU: Dòng Intel Xeon có thể mở rộng &#8211; Socket LGA 3647 dùng cho dòng máy chủ 1U Series &#160;]]></description>
+										<content:encoded><![CDATA[<div class="nd title_box_scroll_content_2019">
+<h2 class="ddnb-title spct-title">Đánh giá Tản nhiệt Supermicro SNK-P0067PD &#8211; Tản Nhiệt Cho Máy Chủ</h2>
+<h3 align="center">Tản nhiệt Supermicro SNK-P0067PD</h3>
+<h3>Tản nhiệt Supermicro SNK-P0067PD</h3>
+<p>Là tản nhiệt bị động dùng cho bo mạch chủ X11DPL Hỗ trợ CPU: Dòng Intel Xeon có thể mở rộng &#8211; Socket LGA 3647 dùng cho dòng máy chủ 1U Series</p>
+<p><img loading="lazy" class="loaded" src="https://hanoicomputercdn.com/media/lib/20-03-2021/supermicrosnk-p0067pdprocessorpassiveheatsink.jpg" width="1189" height="631" data-was-processed="true" /></p>
+<div class="d-inline-block ml16 mb16 mt16">
+<p>&nbsp;</p>
+</div>
+<p class="te_prod_desc">
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpresss/san-pham/tan-nhiet-supermicro-snk-p0067pd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

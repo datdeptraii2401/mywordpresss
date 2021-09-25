@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>CPU &#8211; wordpress_demo</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/cpu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpresss</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 07:05:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>CPU AMD EPYC 7F72 (3.2GHz turbo up to 3.7GHz / 192MB / 24 Cores, 48 Threads / 240W / Socket SP3)</title>
+		<link>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-amd-epyc-7f72-3-2ghz-turbo-up-to-3-7ghz-192mb-24-cores-48-threads-240w-socket-sp3/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-amd-epyc-7f72-3-2ghz-turbo-up-to-3-7ghz-192mb-24-cores-48-threads-240w-socket-sp3/#respond</comments>
+		
+		<dc:creator><![CDATA[123456777]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 07:05:51 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpresss/?post_type=product&#038;p=70</guid>
+
+					<description><![CDATA[Đánh giá CPU AMD EPYC 7F72 (3.2GHz turbo up to 3.7GHz / 192MB / 24 Cores, 48 Threads / 240W / Socket SP3) CPU AMD EPYC 7F72 là bộ vi xử lý của AMD thuộc Series 7002 dành cho các hệ thống sever, có 24 nhân, 48 luồng và xung nhịp tối đa 3.7 Ghz. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="nd title_box_scroll_content_2019">
+<h2 class="ddnb-title spct-title">Đánh giá CPU AMD EPYC 7F72 (3.2GHz turbo up to 3.7GHz / 192MB / 24 Cores, 48 Threads / 240W / Socket SP3)</h2>
+<p>CPU AMD EPYC 7F72 là bộ vi xử lý của AMD thuộc Series 7002 dành cho các hệ thống sever, có 24 nhân, 48 luồng và xung nhịp tối đa 3.7 Ghz.</p>
+<h3>Hiệu năng</h3>
+<p><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/28-01-2021/cpuamdepyc7f72.jpg" alt="CPU AMD EPYC 7F72" width="100%" data-was-processed="true" /></p>
+<h3>Kiến trúc AMD Infinity</h3>
+<p>CPU AMD EPYC 7F72 được xây dựng dựa trên kiến trúc AMD Infinity Architecture. Kiến trúc này sẽ tách ra hai luồng: tám luồng cho lõi bộ xử lý và một luồng I / O hỗ trợ bảo mật và giao tiếp bên ngoài.</p>
+<p><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/28-01-2021/cpuamdepyc7f72-1.jpg" alt="CPU AMD EPYC 7F72" width="100%" data-was-processed="true" /></p>
+<h3>AMD Infinity Guard</h3>
+<p>CPU AMD EPYC 7F72 Cung cấp khả năng bảo mật mạnh mẽ để duy trì sự an toàn tối đa cho hệ thống phần cứng lẫn phần mềm.</p>
+<p><img src="https://www.hanoicomputer.vn/media/lib/28-01-2021/cpuamdepyc7f72-2.jpg" alt="CPU AMD EPYC 7F72" width="100%" /></p>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-amd-epyc-7f72-3-2ghz-turbo-up-to-3-7ghz-192mb-24-cores-48-threads-240w-socket-sp3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CPU AMD Ryzen 7 2700 (3.2GHz turbo up to 4.1GHz, 8 nhân 16 luồng, 16MB Cache, 65W) &#8211; Socket AMD AM4</title>
+		<link>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-amd-ryzen-7-2700-3-2ghz-turbo-up-to-4-1ghz-8-nhan-16-luong-16mb-cache-65w-socket-amd-am4/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-amd-ryzen-7-2700-3-2ghz-turbo-up-to-4-1ghz-8-nhan-16-luong-16mb-cache-65w-socket-amd-am4/#respond</comments>
+		
+		<dc:creator><![CDATA[123456777]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 06:59:19 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpresss/?post_type=product&#038;p=64</guid>
+
+					<description><![CDATA[Đánh giá CPU AMD Ryzen 7 2700 Lựa chọn hoàn hảo cho hệ thống đồ họa và Stream Có thể nói AMD đã quá thành công trong năm 2017 với thương hiệu RYZEN nổi bật với các vi xử lý có mức xung và luồng xử lý dữ liệu giúp giải quyếtcác tác vụ nặng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="nd title_box_scroll_content_2019 showmore">
+<div class="nd title_box_scroll_content_2019">
+<h2 class="ddnb-title spct-title">Đánh giá CPU AMD Ryzen 7 2700 Lựa chọn hoàn hảo cho hệ thống đồ họa và Stream</h2>
+<table border="0">
+<tbody>
+<tr>
+<td colspan="2"><img class="loaded" src="https://hanoicomputercdn.com/media/product/42103_cpu_amd_ryzen_7_2700_32_ghz_41_ghz_with_boost_20mb_8_cores_16_threads_socket_am4_111.jpg" alt="CPU AMD Ryzen 7 2700" width="100%" data-was-processed="true" /></td>
+</tr>
+<tr>
+<td colspan="2">Có thể nói AMD đã quá thành công trong năm 2017 với thương hiệu RYZEN nổi bật với các vi xử lý có mức xung và luồng xử lý dữ liệu giúp giải quyếtcác tác vụ nặng như render và encode 1 cách nhanh chóng giảm thiểu thời gian chờ đợi, không chỉ vậy khả năng xử lý tính toán lớn có thể xử lý nhiều</p>
+<p>ứng dụng cùng lúc giúp người dùng có thể mở nhiều ứng dụng và chuyển đổi giữa các thao tác 1 cách dễ dàng. Chưa kể mức giá hợp lý đã giúp sản</p>
+<p>phẩm RYZEN trở lên vô cùng hot trong danh sách khi llựa chọn để nâng cấp cấu hình hiệu năng cao gia thành hợp lý.</p>
+<p>Và để tiếp nối thành công đó, Ngày 19-4-2018 AMD tiếp tục ra mắt dòng vi xử lý AMD RYZEN thế hệ 2  hứa hẹn mang lại khả năng tính toán cao hơn</p>
+<p>trong khi vẫn giữ mức tiêu thụ năng lượng tương đượng sản phẩm cũ.</p>
+<p>hãy cùng điểm qua 1 số điểm nhần của dòng sản phẩm mới ra mắt này:</p>
+<p><strong>1. Dòng vi xử lý hiệu năng sử dụng công nghệ 12 nm tiên tiến </strong></p>
+<p>Theo đúng lộ trình công bố của AMD hướng tới công nghệ tiết kiệm điện hơn, mang lại năng lực tính toán mạnh mẽ hơn. đa nhiệm tốt hơn trên nền</p>
+<p>tảng vi kiến trúc 12 nm và hướng tới những nền tàng vi kiến trúc tương lai mạnh mẽ hơn</p>
+<p><img loading="lazy" class="loaded" src="https://www.hanoicomputer.vn/media/lib/42101_AMD-Zen-1030x593.jpg" alt="" width="871" height="461" data-was-processed="true" /></p>
+<p><strong>2. Nền tảng Chipset mới ẩn chứa nhiều công nghệ tiên tiến và vẫn hỗ trợ tương thích ngược với các Chipset thế hệ AM4 trước</strong></p>
+<p><img loading="lazy" src="https://www.hanoicomputer.vn/media/lib/42101_102426-zen-architecture-am4-x470-1260x709.jpg" alt="" width="870" height="450" /></p>
+<p>Với các main sử dụng chipset thế hệ trước : A320, B350, X370 chỉ cần update BIOS lên là có thể sử dụng tốt với các vi xử lý AMD RYZEN thế hệ 2</p>
+<p>đây là 1 sự tiết kiệm rất đáng giá cho người dùng tránh những khoản chi lớn khi phải đồng thời nâng cấp cả 2 CPU và MAIN.</p>
+<p><strong>3. Trang bị toàn bộ quạt làm mát hiệu suất cao và chức năng RGB thời thượng</strong></p>
+<p><img loading="lazy" src="https://www.hanoicomputer.vn/media/lib/42101_102426-pinnacle-AM4-wraith-cooler-lineup-prism-addition-1260_0.jpg" alt="" width="870" height="263" /></p>
+<p>Phiên bản này đã được trang bị kèm theo quạt tản nhiệt hiệu xuất cao với mức tăng dần theo từng phiên bản. Trong đó ấn tượng nhất là phiên bản</p>
+<p>Wraith PRISM với thiết kế ống đồng hoành tráng và tính năng RGB đẹp mắt.</p>
+<p><strong>4. Những công nghệ đáng chú ý</strong></td>
+</tr>
+<tr>
+<td><img src="https://www.hanoicomputer.vn/media/lib/42101_102426-sense-mi-machine-intelligent-1260x709.jpg" alt="" width="400" /></p>
+<p><strong>Công nghệ AMD SenseMi</strong></p>
+<p>Gói công nghệ được tích hợp vào Ryzen với hàng loạt công nghệ được</p>
+<p>tích hợp để tối đa hiệu năng</td>
+<td><img src="https://www.hanoicomputer.vn/media/lib/42101_102426-storemi-logo-generic-disk-patrick-lindenberg-1260x709.jpg" alt="" width="400" /></p>
+<p><strong>Công nghệ AMD StoreMI</strong></p>
+<p>Phần mềm kết hợp tốc độ SSD vào ổ cứng tạo thành 1 ổ đơn thống nhất</p>
+<p>nhanh chóng, hiệu quả.</td>
+</tr>
+<tr>
+<td><img src="https://www.hanoicomputer.vn/media/lib/42101_10788-ryzen-master-image-1260x709.jpg" alt="" width="400" /></p>
+<p><strong>Công cụ AMD Ryzen Master</strong></p>
+<p>Ứng dụng đơn giản, tối ưu cho việc ép xung bộ vi xử lý AMD Ryzen.</p>
+<p>Đồng thời với việc mở hệ số nhân cho phép người dùng ham tìm hiệu có</p>
+<p>thể ép xung thủ công để tăng hiệu năng</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-amd-ryzen-7-2700-3-2ghz-turbo-up-to-4-1ghz-8-nhan-16-luong-16mb-cache-65w-socket-amd-am4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CPU Intel Xeon Silver 4110 (2.1GHz turbo up to 3.0GHz, 8 nhân, 16 luồng, 11MB Cache, 85W) &#8211; Socket Intel LGA 3647</title>
+		<link>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-intel-xeon-silver-4110-2-1ghz-turbo-up-to-3-0ghz-8-nhan-16-luong-11mb-cache-85w-socket-intel-lga-3647/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-intel-xeon-silver-4110-2-1ghz-turbo-up-to-3-0ghz-8-nhan-16-luong-11mb-cache-85w-socket-intel-lga-3647/#respond</comments>
+		
+		<dc:creator><![CDATA[123456777]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 06:58:07 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpresss/?post_type=product&#038;p=62</guid>
+
+					<description><![CDATA[Đánh giá CPU Intel Xeon Silver 4110 cho những máy chủ tầm trung CPU Intel Xeon Silver 4110 giúp bạn có trải nghiệm hiệu năng cao hơn, tiết kiệm chi phí và thời gian hơn nhờ những ứng dụng mạng của hệ thống dựa trên dòng bộ xử lý Intel® Xeon® Silver với khả năng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="tab1" class="content_scroll_tab_2019 bg-white">
+<div class="nd title_box_scroll_content_2019">
+<h2 class="ddnb-title spct-title">Đánh giá CPU Intel Xeon Silver 4110 cho những máy chủ tầm trung</h2>
+<p><a href="https://www.hanoicomputer.vn/cpu-intel-xeon-silver-4110210ghz-11mb-8-cores-16-threads-socket-p-lga3647intel-xeon-scalable">CPU Intel Xeon Silver 4110</a> giúp bạn có trải nghiệm hiệu năng cao hơn, tiết kiệm chi phí và thời gian hơn nhờ những ứng dụng mạng của hệ thống dựa trên dòng bộ xử lý Intel® Xeon® Silver với khả năng ảo hóa được cải thiện nhờ phần cứng, đưa các Chức Năng Mạng Ảo Hóa lên một tầm cao hoàn toàn mới.</p>
+<h3>Máy ảo giờ đã khác biệt</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49342_Intel-VR.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Với sự hỗ trợ cho Công nghệ Siêu Phân Luồng Intel® và Công nghệ Intel® Turbo Boost 2.0, hiệu năng chạy máy ảo sẽ được cải thiện nhờ phần cứng, đáp ứng yêu cầu của điện toán trung tâm dữ liệu đầu vào của bạn.</p>
+<h3>Tăng tốc hiệu năng</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49351_CPUIntelXeonGold62262.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Phần mềm tăng tốc với Phần mở rộng Vector nâng cao Intel® 512 (Intel® AVX-512) cho phép bạn tăng tốc dữ liệu thông qua 512 &#8220;làn&#8221; hiệu suất. Cho phép xử lý lên tới 512 bit dữ liệu bằng một lệnh duy nhất, quá trình xử lý được tăng tốc này sẽ tính toán ở mức đáng kinh ngạc. Hỗ trợ lên đến hai kênh Intel® AVX-512, <a title="bộ xử lý Intel" href="https://www.hanoicomputer.vn/cpu-intel" target="_blank" rel="noopener">bộ xử lý Intel</a>® Xeon® Silver đáp ứng các mức độ tính toán cho khối lượng công việc và dịch vụ tốt nhất.</p>
+<h3>Phần cứng với độ tin cây cao</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49351_CPUIntelXeonGold62263.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Trải nghiệm sự khác biệt Intel mang đến độ tin cậy, tính sẵn sàng và khả năng phục vụ nâng cao (RAS) có sẵn trong các giải pháp dựa trên gia đình của bộ xử lý Intel® Xeon® Silver.</p>
+<h3>Tập lệnh mở rộng Vector nâng cao Intel® 512 (Intel® AVX-512)</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49351_CPUIntelXeonGold62266.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Với tốc độ gấp đôi trên mỗi chu kỳ xung nhịp so với Thế hệ mở rộng Vector 2 nâng cao Intel® trước đây (Intel® AVX2), tăng hiệu suất cho các tác vụ tính toán đòi hỏi hiệu năng cao như trong các ứng dụng mô hình hóa và mô phỏng, phân tích dữ liệu và học máy, nén dữ liệu, trực quan hóa, và tạo nội dung số.</p>
+<h3>Intel® Run Sure Technology (RAS)</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49351_CPUIntelXeonGold62264.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Các cải tiến mới cung cấp RAS tiên tiến (độ tin cậy, tính sẵn sàng và khả năng phục vụ) và thời gian hoạt động của máy chủ cho khối lượng công việc quan trọng nhất của bạn. Các khả năng hỗ trợ phần cứng chẩn đoán và phục hồi từ các lỗi nghiêm trọng trước đây và cũng giúp đảm bảo tính toàn vẹn dữ liệu trong hệ thống bộ nhớ.</p>
+<h3>Quản lý hiệu quả ổ cứng với Intel® (Intel® VMD)</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49351_CPUIntelXeonGold62267.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Cung cấp một phương pháp phổ biến, mạnh mẽ về quản lý cắm LED nóng cho SSD dựa trên NVMe (SSD Intel® Optane <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> và SSD NAND 3D của Intel®).</p>
+<h3>Cơ sở hạ tầng đáng tin cậy của Intel</h3>
+<p><img class="loading" src="https://hanoicomputercdn.com/media/lib/49351_CPUIntelXeonGold62265.jpg" alt="" width="1200" data-was-processed="true" /></p>
+<p>Một bộ các công nghệ bảo mật giải quyết nhiều mối đe dọa đang gia tăng trên các cơ sở hạ tầng vật lý và số hoá trước những mối đe dọa về tin tặc.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-intel-xeon-silver-4110-2-1ghz-turbo-up-to-3-0ghz-8-nhan-16-luong-11mb-cache-85w-socket-intel-lga-3647/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CPU Intel Core i3-7100 (3.9GHz, 2 nhân 4 luồng, 3MB Cache, 51W) &#8211; Socket Intel LGA 1151</title>
+		<link>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-intel-core-i3-7100-3-9ghz-2-nhan-4-luong-3mb-cache-51w-socket-intel-lga-1151/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-intel-core-i3-7100-3-9ghz-2-nhan-4-luong-3mb-cache-51w-socket-intel-lga-1151/#respond</comments>
+		
+		<dc:creator><![CDATA[123456777]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 06:56:30 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpresss/?post_type=product&#038;p=60</guid>
+
+					<description><![CDATA[Đánh giá CPU Intel Core i3-7100 Tối ưu ở phân khúc phổ thông &#160; &#160; INTEL đã chính thức ra mắt dòng CPU thế hệ thứ 7 của mình với tên mã Kaby Lake. Đây vẫn là dòng CPU được sản xuất trên công nghệ 14nm của Intel, nhưng đã được cải tiến đáng kể về [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="nd title_box_scroll_content_2019">
+<h2 class="ddnb-title spct-title">Đánh giá CPU Intel Core i3-7100 Tối ưu ở phân khúc phổ thông</h2>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="0">
+<tbody>
+<tr>
+<td><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/35231_Capture.jpg" alt="" data-was-processed="true" /></td>
+</tr>
+<tr>
+<td><span data-mce-mark="1"><a title="INTEL" href="https://www.hanoicomputer.vn/cpu-intel" target="_blank" rel="noopener">INTEL</a> đã chính thức ra mắt dòng CPU thế hệ thứ 7 của mình với tên mã Kaby Lake</span><span data-mce-mark="1">. Đây vẫn là dòng CPU được sản xuất trên công nghệ 14nm của Intel, nhưng đã được cải tiến đáng kể về hiệu năng xử lý đồ họa và tiết kiệm điện năng. C</span>ác CPU Kaby Lake sẽ tập trung rất nhiều vào khả năng xử lý đồ họa, đặc biệt là video với độ phân giải 4K, các video 360 độ và công nghệ thực tế ảo. Đồng thời hiệu năng xử lý các ứng dụng cũng được tăng lên 12%, còn hiệu năng duyệt web cao hơn 19% so với Skylake. Đặc biệt các dòng CPU sử dụng cho laptop mỏng, nhẹ sẽ đem lại hiệu năng và thời lượng pin được cải thiện rất nhiều.</p>
+<p><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/35231_Intel-Kaby-Lake-vs-Skylake-edge-browser-web-Tech2-720.jpg" alt="" data-was-processed="true" /></p>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td> Đi cùng với những CPU thế hệ mới, sẽ là các dòng chipset mới – với các tên mã cụ thể Z270, H270, B250, H110 Q270, Q250. Một tin tốt lành, đó là các bo mạch chủ Skylake 100 series hiện tại vẫn có thể sử dụng CPU Kaby Lake, thông qua việc update BIOS từ trang chủ của các hãng sản xuất. Điều đó cũng đồng nghĩa với việc, các chipset 200 series này sẽ tập trung chủ yếu vào việc cập nhật các tính năng. Trước hết, chipset Z270 sẽ hỗ trợ 24 lanes PCI-Express Gen 3.0, so với 20 lanes của Z170. Từ đó, các mainboard có thể hỗ trợ đến 3 khe M.2 PCI-E x4, và hầu hết chúng đều sẽ có ít nhất 2 khe cắm.</p>
+<p><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/35231_Intel-Z270-Kaby-Lake-vs-Z170-Skylake-Chipset-Diagram.jpg" alt="" data-was-processed="true" /></p>
+<p>Cùng với đó là công nghệ Intel Optane. Đây là dòng SSD thế hệ mới ứng dụng công nghệ 3DXPoint với mục đích làm bộ nhớ đệm cho hệ thống, giúp tăng tốc đọc ghi cho bất cứ thiết bị lưu trữ nào trên hệ thống. Việc chỉ hỗ trợ các bo mạch chủ sử dụng chipset 200-series của Intel, bao gồm X299 mới nhất, Intel Optane được tạo tiền đề để ứng dụng kết nối M.2 PCIe x2 để đạt băng thông cao nhất.</p>
+<p><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/35231_IntelOptane-840x473.jpg" alt="" data-was-processed="true" /></p>
+<p>&nbsp;</p>
+<p><img class="loaded" src="https://www.hanoicomputer.vn/media/lib/35231_ec2140e9-50e6-4b22-9a4e-3c8b840451ba._SR970300_.jpg" alt="" data-was-processed="true" /></p>
+<p>Với nền tảng vi kiến trức 14nnm được tối ưu hỗ trợ ép xung bộ xử lý Intel dòng K không khóa xung nhịp, RAM và bo mạch chủ là một cách để tinh chỉnh PC của bạn. Bạn có thể điều chỉnh các cài đặt điện năng, điện áp, lõi, bộ nhớ và các giá trị hệ thống quan trọng khác để có được hiệu năng tối ưu. Việc này giúp tăng tốc cho các thành phần và chế độ game của bạn. Việc này còn hỗ trợ cho những tác vụ nặng về bộ xử lý như tái tạo ảnh và chuyển mã. Tất nhiên việc này yêu cầu sử dụng trên bo mạch chủ cao cấp sử dụng chipset Z270 đồng thời hệ thống tản nhiệt và nguồn điện cung cấp hiệu quả, ổn định.</p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_Intel_i7_7700K_11.jpg" alt="" data-was-processed="true" /></td>
+</tr>
+<tr>
+<td> Đánh giá hiệu năng của CPU Core i3 7100</td>
+</tr>
+<tr>
+<td> &#8211;<strong>Các phần mềm benchmark, ứng dụng cơ bản</strong></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh01.gif" alt="" data-was-processed="true" /></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh04.gif" alt="" data-was-processed="true" /></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh07.gif" alt="" data-was-processed="true" /></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh12.gif" alt="" data-was-processed="true" /></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh13.gif" alt="" data-was-processed="true" /></p>
+<p>&#8211;<strong>Các tựa game cơ bản</strong></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh18.gif" alt="" data-was-processed="true" /></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh16.gif" alt="" data-was-processed="true" /></p>
+<p><img class="loading" src="https://www.hanoicomputer.vn/media/lib/35231_corei7-7700k-gh15.gif" alt="" data-was-processed="true" /></p>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td> <strong>Tổng kết</strong>: Với nhiều tối ưu và công nghệ lẫn tính năng mới được áp dụng vào thế hệ CPU Kaby Lake thì đây sẽ là 1 lựa chọn đáng lưu tâm cho người dùng đang muốn xây dụng 1 bộ máy chơi game , giải trí hoặc ứng dụng làm việc . Còn với những ai đang sử dụng cấu hình sử dụng nền tảng Skylake sẵn có, thì việc nâng cấp lên Kaby Lake thật sự không cần thiết, vì hiệu năng đem lại không thật sự quá đáng kể.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="viewmore-area"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpresss/san-pham/cpu-intel-core-i3-7100-3-9ghz-2-nhan-4-luong-3mb-cache-51w-socket-intel-lga-1151/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
